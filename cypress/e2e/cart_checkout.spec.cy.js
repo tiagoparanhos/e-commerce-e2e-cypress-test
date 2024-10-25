@@ -20,8 +20,8 @@ describe('Cart and Checkout Tests on Saucedemo', () => {
         cy.get('.btn_action').click(); // proceed to checkout
 
         // Fill in checkout form
-        cy.get('[data-test="firstName"]').type('Gabriel');
-        cy.get('[data-test="lastName"]').type('Florescu');
+        cy.get('[data-test="firstName"]').type('Tiago');
+        cy.get('[data-test="lastName"]').type('Mota');
         cy.get('[data-test="postalCode"]').type('123456');
         cy.get('.btn_primary').click(); // submit form
 
