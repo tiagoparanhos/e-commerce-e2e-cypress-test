@@ -1,6 +1,6 @@
-# Testes E2E do SauceDemo
+# Testes E2E E-commerce
 
-Este projeto contém testes automatizados para o SauceDemo, utilizando Cypress.io. Os testes são realizados para fins de prática e a aplicação. 
+Este projeto contém testes automatizados para o E-commerce SauceDemo, utilizando Cypress.io. Os testes são realizados para fins de prática e a aplicação. 
 
 # Como instalar o Cypress
 
